@@ -3,7 +3,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pedrocarvh/calculator?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/pedrocarvh/calculator?style=for-the-badge)
-![Hits](https://hits.dwyl.com/pedrocarvh/calculator.svg)
+![Views](https://hits.dwyl.com/pedrocarvh/calculator.svg)
 
 
 
