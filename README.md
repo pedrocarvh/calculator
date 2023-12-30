@@ -5,7 +5,8 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/pedrocarvh/calculator?style=for-the-badge&label=Language+Count&width=100)
 ![Views](https://hits.dwyl.com/pedrocarvh/calculator.svg?style=for-the-badge&label=Views&width=100)
 
-  [![HitCount](https://hits.dwyl.com/pedrocarvh/calculator.svg?style=flat-square&show=unique)](http://hits.dwyl.com/pedrocarvh/calculator)
+![Visits](https://shields.io/badge/dynamic/json?color=blue&label=Visits&query=%24.value&url=https%3A%2F%2Fapi.visitorbadge.io%2Fapi%2Fviews%3Fpath%3D%2F{seu-usuario}%2F{seu-repositorio})
+
 
 > Um aplicativo simples de calculadora desenvolvido em JavaScript.
 > 
