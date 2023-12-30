@@ -14,12 +14,12 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x]  **Implementar funções principais**
 - [x]  **Aplicar conceitos de DOM**
-- [x]  **Implementar novas funcionalidades**
-- [x]  **Refinar a aplicação de conceitos de DOM**
-- [x]  **Corrigir eventuais bugs de entrada de dados**
-- [x]  **Aprimorar a usabilidade em dispositivos móveis**
-- [x]  **Adicionar estilos responsivos para melhor experiência visual**
-- [x]  **Explorar operações avançadas para ampliar a funcionalidade**
+- [ ]  **Implementar novas funcionalidades**
+- [ ]  **Refinar a aplicação de conceitos de DOM**
+- [ ]  **Corrigir eventuais bugs de entrada de dados**
+- [ ]  **Aprimorar a usabilidade em dispositivos móveis**
+- [ ]  **Adicionar estilos responsivos para melhor experiência visual**
+- [ ]  **Explorar operações avançadas para ampliar a funcionalidade**
 
 
 
