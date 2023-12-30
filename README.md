@@ -1,13 +1,11 @@
 
 # Calculadora Simples
 
-![GitHub repo size](https://img.shields.io/github/repo-size/pedrocarvh/fullstack?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/pedrocarvh/fullstack?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/pedrocarvh/calculator?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/pedrocarvh/calculator?style=for-the-badge)
 
 
-
-<img src="imagem.png" alt="Exemplo imagem">
-
+![Calculadora](https://github.com/pedrocarvh/calculator/blob/main/images/Calculadora.png)
 
 > Um aplicativo simples de calculadora desenvolvido em JavaScript.
 
@@ -26,9 +24,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ## 🚀 Acessar <Calculadora>
 
-Para Acessar o <nome_do_projeto>, siga estas etapas:
-
-Para acessar a Calculator, basta seguir este link: [Calculator Web](https://pedrocarvh-calculator.netlify.app/)
+Para acessar a Calculadora, basta seguir este link: [Calculator Web](https://pedrocarvh-calculator.netlify.app/)
 
 Certifique-se de ter um navegador web atualizado, como Google Chrome, Mozilla Firefox, ou Safari, para garantir uma experiência adequada.
 
@@ -39,7 +35,7 @@ Se encontrar algum problema de exibição ou funcionalidade, verifique se está 
 
 Para contribuir com a Calculator, siga estas etapas:
 
-1. Bifurque este [repositório](https://github.com/pedrocarvh/fullstack/tree/main/mini-projetos/calculadora).
+1. Bifurque este [repositório](https://github.com/pedrocarvh/calculator).
 2. Crie um branch: `git checkout -b nome_branch`.
 3. Faça suas alterações e confirme-as: `git commit -m 'mensagem_commit'`.
 4. Envie para o branch original: `git push origin nome_branch`.
@@ -49,7 +45,7 @@ Como alternativa, consulte a [documentação do GitHub](https://docs.github.com/
 
 Agradecemos antecipadamente por suas contribuições!
 
-## 🤝 Desenvolvido
+## 🤝 Desenvolvido por
 
 <table>
   <tr>
