@@ -3,7 +3,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pedrocarvh/calculator?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/pedrocarvh/calculator?style=for-the-badge)
-![GitHub Repo views](https://komarev.com/ghpvc/?username=pedrocarvh&repo=calculator&label=Repo+Views&color=brightgreen&style=flat)
+![Hits](https://hits.dwyl.com/pedrocarvh/calculator.svg)
+
 
 
 
