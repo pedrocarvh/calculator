@@ -1,9 +1,9 @@
 
 # Calculadora Simples
 
-![GitHub repo size](https://img.shields.io/github/repo-size/pedrocarvh/calculator?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/pedrocarvh/calculator?style=for-the-badge)
-![Views](https://hits.dwyl.com/pedrocarvh/calculator.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/pedrocarvh/calculator?style=for-the-badge&label=Repo+Size&width=100)
+![GitHub language count](https://img.shields.io/github/languages/count/pedrocarvh/calculator?style=for-the-badge&label=Language+Count&width=100)
+![Views](https://hits.dwyl.com/pedrocarvh/calculator.svg?style=for-the-badge&label=Views&width=100)
 
 
 
