@@ -6,7 +6,7 @@
 ![Views](https://hits.dwyl.com/pedrocarvh/calculator.svg?style=for-the-badge&label=Views&width=100)
 
 
-
+  [![HitCount](https://hits.dwyl.com/pedrocarvh/calculator.svg?style=flat-square)](http://hits.dwyl.com/pedrocarvh/calculator)
 
 > Um aplicativo simples de calculadora desenvolvido em JavaScript.
 > 
