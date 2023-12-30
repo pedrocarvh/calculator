@@ -50,7 +50,8 @@ Como alternativa, consulte a [documentação do GitHub](https://docs.github.com/
 
 Agradecemos antecipadamente por suas contribuições!
 
-## 🤝 Desenvolvido por
+## ![Desenvolvido por](https://img.shields.io/badge/Desenvolvido%20por-Pedro%20Carvalho-brightgreen?style=for-the-badge)
+
 
 <table>
   <tr>
