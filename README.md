@@ -3,6 +3,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pedrocarvh/calculator?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/pedrocarvh/calculator?style=for-the-badge)
+<img align="right" src="https://komarev.com/ghpvc/?username=pedrocarvh&label=Views&color=brightgreen&style=flat" />
+
 
 > Um aplicativo simples de calculadora desenvolvido em JavaScript.
 > 
