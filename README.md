@@ -1,15 +1,16 @@
 
 # Calculadora Simples
+![GitHub repo size](https://img.shields.io/github/repo-size/pedrocarvh/calculator?style=for-the-badge&label=Repo+Size&width=100)
+![GitHub language count](https://img.shields.io/github/languages/count/pedrocarvh/calculator?style=for-the-badge&label=Language+Count&width=100)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpedrocarvh%2Fcalculator&countColor=%23007ec6&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpedrocarvh%2Fcalculator)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/pedrocarvh/fullstack?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/pedrocarvh/fullstack?style=for-the-badge)
 
 
-
-<img src="imagem.png" alt="Exemplo imagem">
 
 
 > Um aplicativo simples de calculadora desenvolvido em JavaScript.
+> 
+![Calculadora](https://github.com/pedrocarvh/calculator/blob/main/images/Calculadora.png)
 
 ### Ajustes e melhorias
 
@@ -17,18 +18,18 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x]  **Implementar funções principais**
 - [x]  **Aplicar conceitos de DOM**
-- [x]  **Corrigir bugs de entrada de dados**
-- [ ]  **Melhorar a usabilidade em dispositivos móveis**
-- [ ]  **Adicionar estilos responsivos**
-- [ ]  **Adicionar suporte para operações avançadas**
-- [ ]  **Criar nova lógica para as operações**
+- [ ]  **Implementar novas funcionalidades**
+- [ ]  **Refinar a aplicação de conceitos de DOM**
+- [ ]  **Corrigir eventuais bugs de entrada de dados**
+- [ ]  **Aprimorar a usabilidade em dispositivos móveis**
+- [ ]  **Adicionar estilos responsivos para melhor experiência visual**
+- [ ]  **Explorar operações avançadas para ampliar a funcionalidade**
+
 
 
 ## 🚀 Acessar <Calculadora>
 
-Para Acessar o <nome_do_projeto>, siga estas etapas:
-
-Para acessar a Calculator, basta seguir este link: [Calculator Web](https://pedrocarvh-calculator.netlify.app/)
+Para acessar a Calculadora, basta seguir este link: [Calculator Web](https://pedrocarvh-calculator.netlify.app/)
 
 Certifique-se de ter um navegador web atualizado, como Google Chrome, Mozilla Firefox, ou Safari, para garantir uma experiência adequada.
 
@@ -39,7 +40,7 @@ Se encontrar algum problema de exibição ou funcionalidade, verifique se está 
 
 Para contribuir com a Calculator, siga estas etapas:
 
-1. Bifurque este [repositório](https://github.com/pedrocarvh/fullstack/tree/main/mini-projetos/calculadora).
+1. Bifurque este [repositório](https://github.com/pedrocarvh/calculator).
 2. Crie um branch: `git checkout -b nome_branch`.
 3. Faça suas alterações e confirme-as: `git commit -m 'mensagem_commit'`.
 4. Envie para o branch original: `git push origin nome_branch`.
@@ -49,7 +50,8 @@ Como alternativa, consulte a [documentação do GitHub](https://docs.github.com/
 
 Agradecemos antecipadamente por suas contribuições!
 
-## 🤝 Desenvolvido
+## ![Desenvolvido por](https://img.shields.io/badge/Desenvolvido%20por-Pedro%20Carvalho-brightgreen?style=for-the-badge)
+
 
 <table>
   <tr>
